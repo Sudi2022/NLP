@@ -1,4 +1,5 @@
-Harmonizing Evolution: Ariana Grande's Artistic Journey Through Spotify Lyrics.
+# Harmonizing Evolution: Ariana Grande's Artistic Journey Through Spotify Lyrics.
+Liberaries : spotipy, pandas, azapi, lyricsgenius, wordcloud, matplotlib, nltk, sklearn (scikit-learn), re (regular expressions), collections
 
 Project Overview
 This project involves a comprehensive analysis of singer Ariana Grande's discography, with a focus on Natural Language Processing (NLP) techniques. The analysis covers various aspects such sentiment analysis, word clouds, and explicit word usage, employing addressing specific aspects of the singer's career and song content. 
